@@ -1,0 +1,61 @@
+﻿IDCliente,Cliente,TipoCliente,Ciudad,Segmento
+2001,Textiles Central 32,Minorista,Arequipa,Estandar
+2002,Comercial Peru 76,Mayorista,Cusco,Estandar
+2003,Comercial Continental 30,Mayorista,Piura,Estandar
+2004,Confecciones Norte 29,Minorista,Cusco,Estandar
+2005,Textiles Pacifico 90,Minorista,Cusco,Estandar
+2006,Distribuidora Continental 98,Mayorista,Trujillo,Estandar
+2007,Corporacion San Martin 46,Mayorista,Trujillo,Estandar
+2008,Textiles Union 69,Minorista,Lima,Estandar
+2009,Corporacion Peru 71,Corporativo,Trujillo,Premium
+2010,Grupo Continental 91,Corporativo,Lima,Premium
+2011,Confecciones Nueva Era 11,Mayorista,Arequipa,Estandar
+2012,Corporacion Central 59,Corporativo,Chiclayo,Premium
+2013,Distribuidora Inca 46,Corporativo,Arequipa,Premium
+2014,Comercial Pacifico 69,Exportacion,Chiclayo,Premium
+2015,Almacenes Selva 35,Mayorista,Chiclayo,Estandar
+2016,Confecciones El Sol 99,Exportacion,Lima,Premium
+2017,Textiles El Sol 52,Mayorista,Trujillo,Estandar
+2018,Grupo Continental 84,Mayorista,Cusco,Estandar
+2019,Almacenes Los Andes 34,Minorista,Arequipa,Estandar
+2020,Importadora Norte 75,Mayorista,Cusco,Estandar
+2021,Distribuidora Global 12,Minorista,Lima,Estandar
+2022,Distribuidora Pacifico 88,Corporativo,Cusco,Premium
+2023,Corporacion Selva 77,Minorista,Cusco,Estandar
+2024,Textiles San Martin 88,Minorista,Piura,Estandar
+2025,Grupo San Martin 38,Exportacion,Cusco,Premium
+2026,Textiles Central 65,Mayorista,Arequipa,Estandar
+2027,Comercial Nueva Era 82,Minorista,Piura,Estandar
+2028,Distribuidora Inca 98,Minorista,Arequipa,Estandar
+2029,Textiles El Sol 63,Minorista,Lima,Estandar
+2030,Grupo Nueva Era 31,Mayorista,Lima,Estandar
+2031,Comercial Peru 94,Mayorista,Cusco,Estandar
+2032,Distribuidora Los Andes 85,Corporativo,Cusco,Premium
+2033,Distribuidora Central 68,Corporativo,Piura,Premium
+2034,Confecciones Continental 92,Minorista,Trujillo,Estandar
+2035,Grupo Union 67,Minorista,Cusco,Estandar
+2036,Confecciones Peru 44,Mayorista,Lima,Estandar
+2037,Confecciones Real 1,Minorista,Lima,Estandar
+2038,Textiles Real 9,Exportacion,Lima,Premium
+2039,Comercial Real 36,Corporativo,Chiclayo,Premium
+2040,Distribuidora Global 32,Minorista,Cusco,Estandar
+2041,Confecciones San Martin 13,Corporativo,Chiclayo,Premium
+2042,Corporacion Norte 60,Minorista,Chiclayo,Estandar
+2043,Comercial del Sur 52,Mayorista,Chiclayo,Estandar
+2044,Comercial Real 25,Mayorista,Arequipa,Estandar
+2045,Distribuidora Norte 24,Minorista,Trujillo,Estandar
+2046,Comercial Union 71,Minorista,Lima,Estandar
+2047,Textiles Peru 97,Mayorista,Arequipa,Estandar
+2048,Almacenes Global 28,Mayorista,Cusco,Estandar
+2049,Distribuidora Selva 1,Corporativo,Cusco,Premium
+2050,Almacenes Nueva Era 55,Mayorista,Chiclayo,Estandar
+2051,Almacenes Los Andes 25,Corporativo,Trujillo,Premium
+2052,Textiles del Sur 96,Mayorista,Trujillo,Estandar
+2053,Almacenes Pacifico 8,Mayorista,Piura,Estandar
+2054,Distribuidora Peru 77,Mayorista,Lima,Estandar
+2055,Confecciones Selva 16,Exportacion,Piura,Premium
+2056,Textiles Peru 54,Mayorista,Chiclayo,Estandar
+2057,Grupo Central 27,Minorista,Chiclayo,Estandar
+2058,Confecciones Central 51,Exportacion,Arequipa,Premium
+2059,Importadora Union 41,Exportacion,Lima,Premium
+2060,Comercial Peru 69,Mayorista,Arequipa,Estandar
