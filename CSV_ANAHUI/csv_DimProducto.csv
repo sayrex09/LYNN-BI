@@ -1,21 +1,21 @@
 ﻿IDProducto,Producto,Categoria,Linea,CostoUnitario,PrecioBase
-1001,Tela Polar,Telas,Telas por metro,8.0,15.0
-1002,Tela Algodon,Telas,Telas por metro,9.5,18.0
-1003,Tela Denim,Telas,Telas por metro,12.0,24.0
-1004,Tela Drill,Telas,Telas por metro,10.0,20.0
-1005,Tela Franela,Telas,Telas por metro,7.5,14.0
-1006,Hilo Algodon,Hilados,Conos de hilo,4.0,9.0
-1007,Hilo Poliester,Hilados,Conos de hilo,3.5,8.0
-1008,Hilo Acrilico,Hilados,Conos de hilo,4.5,10.0
-1009,Polo Basico,Prendas,Prendas acabadas,12.0,28.0
-1010,Camisa Formal,Prendas,Prendas acabadas,18.0,45.0
-1011,Casaca Impermeable,Prendas,Prendas acabadas,35.0,89.0
-1012,Buzo Deportivo,Prendas,Prendas acabadas,22.0,55.0
-1013,Chompa de Lana,Prendas,Prendas acabadas,28.0,69.0
-1014,Uniforme Escolar,Confeccion,Confeccion a medida,25.0,60.0
-1015,Uniforme Industrial,Confeccion,Confeccion a medida,40.0,95.0
-1016,Chaleco Corporativo,Confeccion,Confeccion a medida,20.0,48.0
-1017,Mandil Medico,Confeccion,Confeccion a medida,15.0,38.0
-1018,Toalla Industrial,Textil Hogar,Linea hogar,6.0,13.0
-1019,Sabana 2 plazas,Textil Hogar,Linea hogar,16.0,39.0
-1020,Frazada Polar,Textil Hogar,Linea hogar,19.0,45.0
+1001,Tela Polar,Telas,Telas por metro,8.0,15
+1002,Tela Algodon,Telas,Telas por metro,9.5,18
+1003,Tela Denim,Telas,Telas por metro,12.0,24
+1004,Tela Drill,Telas,Telas por metro,10.0,20
+1005,Tela Franela,Telas,Telas por metro,7.5,14
+1006,Hilo Algodon,Hilados,Conos de hilo,4.0,9
+1007,Hilo Poliester,Hilados,Conos de hilo,3.5,8
+1008,Hilo Acrilico,Hilados,Conos de hilo,4.5,10
+1009,Polo Basico,Prendas,Prendas acabadas,12.0,28
+1010,Camisa Formal,Prendas,Prendas acabadas,18.0,45
+1011,Casaca Impermeable,Prendas,Prendas acabadas,35.0,89
+1012,Buzo Deportivo,Prendas,Prendas acabadas,22.0,55
+1013,Chompa de Lana,Prendas,Prendas acabadas,28.0,69
+1014,Uniforme Escolar,Confeccion,Confeccion a medida,25.0,60
+1015,Uniforme Industrial,Confeccion,Confeccion a medida,40.0,95
+1016,Chaleco Corporativo,Confeccion,Confeccion a medida,20.0,48
+1017,Mandil Medico,Confeccion,Confeccion a medida,15.0,38
+1018,Toalla Industrial,Textil Hogar,Linea hogar,6.0,13
+1019,Sabana 2 plazas,Textil Hogar,Linea hogar,16.0,39
+1020,Frazada Polar,Textil Hogar,Linea hogar,19.0,45
